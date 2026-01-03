@@ -5,3 +5,4 @@ This folder contains the background, objectives, and scope of the Online Job App
 * **Project Background:** The problem we are solving.
 * **Objectives:** What the system aims to achieve.
 * **Scope:** The boundaries and features of our solution.
+*
