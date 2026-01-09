@@ -29,7 +29,7 @@ This project is a collaborative effort by **Group 12**. Below are the assigned r
 | Member | Role | Responsibilities |
 | :--- | :--- | :--- |
 | **Nurin** | **Project Admin / Owner** | Project management, Repository setup, `/introduction`, `/report`, and `/requirements` overview. |
-| **Haziq** | **Requirements Analyst** | Defining 5 Functional and 3 Non-functional requirements in the `/requirements` folder. |
+| **Haziq** | **Requirements Analyst** | Defining 5 Functional requirements in the `/requirements` folder. |
 | **Wan** | **System Logic Designer** | Developing and documenting all system logic in the `/pseudocode` folder. |
 | **Darwish** | **Visual Designer** | Creating and organizing visual logic diagrams in the `/flowcharts` folder. |
 
