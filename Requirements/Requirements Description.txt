@@ -1,0 +1,19 @@
+Description for User Registration and Login Functionality
+
+The system shall allow users to log in to the system through the secure log-in process. After gaining entry into the log-in page, users are required to enter the correct log-in credentials in order to gain entry into the system. If the log-in credentials are correct, users get access to the system. If the log in credentials are incorrect, users receive an error message showing ‘invalid username or password’. Users lacking log-in credentials are provided with the opportunity to log in via a link to the registration page before gaining entry into the system. 
+
+Description for Job Posting by Employers Functionality
+
+The system shall allow employers to post employment opportunities after the successful authentication process. The employers are required to submit employment details such as the post title, the name of the company, the post-description, and the required skills. The posted employment details are stored in the system, allowing access for job seekers. The employers are capable of managing the posts allowing for changes in the posted details if needed. 
+
+Description for Job Search and View Listing Functionality
+
+The system shall allow users to view available job vacancies through a dedicated job listings section. When a user chooses to view the job vacancies, the system will determine whether there are any vacancies. In cases where there are vacancies, the system will display the list of jobs. In cases where there are no vacancies, the system will display a message showing there are no vacancies. Users will be able to search jobs through their job title or company name, and the system will display the list of related vacancies. A user will choose to view the details of any listed job. 
+
+Description for Job Application Submission Functionality
+
+The system shall allow individuals looking for employment to create applications for job vacancies through the system. After evaluating the comprehensive details required for a chosen job, users are able to decide whether they want to create an application through the system. The system demands the necessary details when an individual applies for a job, such as personal details and submitting their resume. 
+
+Description for Application Tracking and Status Management Functionality
+
+The system shall allow job applicants to track the status of their job applications submitted to the website. Users will be able to view their job applications with the current status of each application using categories such as pending, accepted, and/or rejected. Employers have the right to view job applications and change their statuses as deemed fit. 
