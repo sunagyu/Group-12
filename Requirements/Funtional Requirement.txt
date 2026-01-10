@@ -1,0 +1,7 @@
+ Funtional Requirement 
+ 
+1. user registration and login
+2. job posting by employers
+3.  job search and view listing
+4.  job applications submission
+5.  applications tracking and status management
