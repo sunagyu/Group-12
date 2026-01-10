@@ -1,0 +1,19 @@
+Description for User Registration and Login Functionality
+
+The system shall allow users to log in to the system through the secure log-in process. After gaining entry into the log-in page, users are required to enter the correct log-in credentials in order to gain entry into the system. If the log-in credentials are correct, users get access to the system. If the log in credentials are incorrect, users receive an error message showing ‘invalid username or password’. Users lacking log-in credentials are provided with the opportunity to log in via a link to the registration page before gaining entry into the system. 
+
+Description for Job Posting by Employers Functionality
+
+The system shall allow employers to carry out job posting and application processing procedures after gaining access. After gaining access into the system, the employer chooses job posting module options. The system displays a list of job applications for the displayed job vacancies, allowing the employer to process them. The employers are able to evaluate the list of applications received and change statuses accordingly. The system maintains statuses for future reference. 
+
+Description for Job Search and View Listing Functionality
+
+The system shall allow the user access to the current employment vacancies through the designated job vacancies section. Once the user chooses the option to view the job vacancies, the system checks the availability of the vacancies and displays the vacancies in the list if they exist in the system; if not, the system returns a display indicating the absence of the job vacancies. Finally, the user is presented with the opportunity to choose his or her desired job from the displayed vacancies in the system. 
+
+Description for Job Application Submission Functionality
+
+The system allows individuals in search of employment to apply for the vacancies using the system. Based on the evaluation of the entire information needed for a particular job, the individual is able to determine whether to go forward with the process of creating an application. When the individual wants to apply for a particular vacancy, the individual is required to fill in the application form and attach their resume to the system. The system will confirm whether the individual has filled in all the needed information. When the individual has filled in the needed information, the system will submit the application and display a message indicating that the application is successful. When the information is incomplete, the system will display a message asking the individual to fill in all the needed information.
+
+Description for Application Tracking and Status Management Functionality
+
+This system shall allow job seekers to check the status of their applications that they have submitted through the website. The user will be able to choose the “My Applications” menu once they are able to log into the website. The system will fetch the corresponding data of the applications and determine the status of approval of the applications. The status will be shown as “Approved,” “Rejected,” or “Pending Approval,” depending on the application being approved or not.
